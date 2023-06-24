@@ -17,18 +17,18 @@ body {
 }
 
 h1, h2 {
-    font-weight: 200;
+    font-weight: 500;
     margin: 0.4rem;
 }
 
 h1 {
     font-size: 3.5rem;
-    color: yellowgreen;
+    color: white;
 }
 
 h2 {
     font-size: 2rem;
-    color: yellowgreen;
+    color: white;
 }
 
 /* Cursor */
